@@ -26,16 +26,20 @@ The plugin is simple, lightweight, and meant for fast translations while editing
 ```sh
 mkdir -p ~/.config/micro/plug
 cd ~/.config/micro/plug
-git clone https://github.com/BuriXon-code/micro-translate-plugin.git
+git clone https://github.com/BuriXon-code/micro-translate-plugin translate
 ```
 
 Then make sure the plugin file is available as:
 
 ```
-~/.config/micro/plug/micro-translate-plugin/translate.lua
+~/.config/micro/plug/translate/translate.lua
 ```
 
 If your Micro plugin directory is different, use that location instead.
+
+> [!WARNING]
+> For some unknown reason, the plugin does not work in the `micro-translate-plugin` directory...
+> For this reason, make sure the name is different/shorter - e. g. `translate`.
 
 ## Usage
 
