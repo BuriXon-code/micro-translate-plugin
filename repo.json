@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "translate",
+    "Description": "Handy text translator in the editor",
+    "Website": "https://github.com/BuriXon-code/micro-translate-plugin",
+    "Author": "Kamil BuriXon Burek",
+    "Tags": ["plugin"],
+    "License": "MIT",
+    "Versions": [
+      {
+        "Version": "1.0.0",
+        "Url": "https://github.com/BuriXon-code/micro-translate-plugin/raw/main/translate-1.0.0.zip",
+        "Require": {
+          "micro": ">=2.0.0"
+        }
+      }
+      }
+    ]
+  }
+]
