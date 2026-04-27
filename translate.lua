@@ -19,7 +19,7 @@ License:
 	You are free to use, modify, and distribute it.
 --]]
 
-VERSION °= "1.0.0"
+VERSION = "1.0.0"
 
 local config = import("micro/config")
 local micro = import("micro")
